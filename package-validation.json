@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "release_kind": "development-validated",
+  "directory": "/Users/ai4s/Desktop/研一上/09、大模型理论与应用/期末项目60%/01-大作业开发/03-发布包/release-20261116T151115930669Z/TheoryPhysicsBench-50",
+  "zip": "/Users/ai4s/Desktop/研一上/09、大模型理论与应用/期末项目60%/01-大作业开发/03-发布包/release-20261116T151115930669Z/TheoryPhysicsBench-50.zip",
+  "archive_sha256": "593e9bdd0874b80e8749eba5b1a49c8b5876f9faaf49119b8ac7ff70b7b0b0f2",
+  "directory_verification": {
+    "passed": true,
+    "file_count": 3580,
+    "total_bytes": 16955069,
+    "credential_scan": {
+      "schema_version": 1,
+      "files_scanned": 3580,
+      "passed": true,
+      "findings": [],
+      "scope": "Deterministic credential patterns and sensitive local file names; findings never contain matching values."
+    }
+  },
+  "zip_verification": {
+    "passed": true,
+    "archive_sha256": "593e9bdd0874b80e8749eba5b1a49c8b5876f9faaf49119b8ac7ff70b7b0b0f2",
+    "file_count": 3580,
+    "total_bytes": 16955069,
+    "credential_scan": {
+      "schema_version": 1,
+      "files_scanned": 3580,
+      "passed": true,
+      "findings": [],
+      "scope": "Deterministic credential patterns and sensitive local file names; findings never contain matching values."
+    }
+  }
+}
